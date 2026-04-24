@@ -1,13 +1,3 @@
-# El İzi ile Sistem Açma
-
-Sol elinizi okutarak video oynatımını tetikleyen basit bir el tanıma sistemi.
-
-## Özellikler
-
-- 🎯 **Sol El Tanıma**: Sadece sol el kabul edilir
-- 🖼️ **El İskeleti Görselleştirmesi**: Kırmızı noktalar ve beyaz çizgiler
-- 🟢 **Doğrulama İlerlemesi**: Yeşil dairesel ilerleme göstergesi
-- 🎬 **Otomatik Video Oynatma**: Doğrulama başarılı olunca video açılır
 
 ## Kurulum
 
